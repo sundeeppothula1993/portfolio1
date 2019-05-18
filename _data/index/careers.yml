@@ -13,6 +13,7 @@
     detail: Data Scientist (Intern)
     i18n: company_a_job
   icon: fa-plus-square  
+  
 - name:
     detail: Data Scientist (Intern), TD Bank
     i18n: 
@@ -26,6 +27,7 @@
     detail: Data Scientist (Intern)
     i18n: company_a_job
   icon: fa-plus-square  
+  
   - name:
     detail: Data Scientist (Intern), TD Bank
     i18n: 
