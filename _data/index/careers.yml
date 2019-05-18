@@ -21,9 +21,9 @@
     detail: I worked at Company B ...
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Sept. 2018 - April. 2019
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: TA, University of Toronto
     i18n: company_b_job
   icon: fa-plus-square
