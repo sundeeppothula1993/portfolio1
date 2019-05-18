@@ -1,13 +1,13 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Data Scientist (Intern), TD Bank
+    detail: Data Scientist (Intern)
     i18n: 
   desc:
-    detail: Working with Enterprise Data Analytics team on a Phone channel analytics project.
-    i18n: company_a_desc
+    detail: TD Bank
+    i18n: Working with Enterprise Data Analytics team on a Phone channel analytics project.
   date:
-    detail: May. 2019
+    detail: May. 2019 - Present
     i18n: company_a_date
   job:
     detail: Data Scientist (Intern)
