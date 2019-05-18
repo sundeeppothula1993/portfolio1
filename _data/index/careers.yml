@@ -41,3 +41,17 @@
     detail: University Health Network, Toronto
     i18n: company_b_job
   icon: fa-plus-square
+
+  - name:
+    detail: Dy. Manager, GSFC, India
+    i18n: company_b
+  desc:
+    detail: I worked at Company B ...
+    i18n: company_b_desc
+  date:
+    detail: Sept. 2018 - Jan. 2019
+    i18n: company_b_date
+  job:
+    detail: University Health Network, Toronto
+    i18n: company_b_job
+  icon: fa-plus-square
