@@ -24,16 +24,14 @@
   icon: fa-plus-square
 
 - name:
-    detail: Intel Software Innovator
+    detail: Research Student, Data Analysis - UHN
   desc:
     detail: >
-      As an Intel® Software Innovator affiliate I have access to new Intel technologies (software and hardware)
-      and initiatives on creating and demonstrating forward-looking projects. Some related projects of mine include:
-      fungai.org, Life++, and HPC with Intel Xeon Phi. Current research focus mainly around AI and IoT.
+      Assisted medical team for analyzing patient-centered research data to empower communities about Kidney transplantation. Responsible for Data processing, Data Exploration, building dashboards and presenting data Insights to the research teams. 
   date:
-    detail: Oct 2015 - present, London
+    detail: Sept. 2018 - Jan. 2019, Toronto
   job:
-    detail: Independent Developer, AI Specialist
+    detail: Data Analyst, University Health Network, Toronto
   icon: fa-plus-square
 
 - name:
