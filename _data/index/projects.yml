@@ -4,7 +4,7 @@
 - name: Adaptive Real Time Machine Learning (ARTML)
   i18n: 
   gh_user: sundeeppothula1993
-  repo: /AdaptiveMachineLearning/artml
+  repo: AdaptiveMachineLearning/artml
   img: /static/assets/img/landing/jekyll.png
   desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
