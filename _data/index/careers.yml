@@ -46,16 +46,14 @@
   icon: fa-plus-square
 
 - name:
-    detail: Dufrain Consulting | RBS
+    detail: Dy. Manager, GSFC
   desc:
     detail: >
-      Data Analytics Consultant at Royal Bank of Scotland (RBS) Commercial and Private Banking.
-      Owned the analytics and segmentation part of 3 high profile remediation projects.
-      Major tech stack: SAS, SQL, Oracle, Teradata, In-house credit risk systems
+      Worked as a Dy. Manager in an Hydrogen generation plant. Predicted Steam Reforming Catalyst life using Machine learning and optimized parameters to improve catalyst life by 10%. Key person responsible for the formation of Six Sigma cell in Organization and planned for six sigma project executions
   date:
-    detail: May 2016 - Apr 2017, London
+    detail: July 2015 - Dec 2017, India
   job:
-    detail: Data Analytics Consultant
+    detail: Dy. Manager, GSFC
   icon: fa-plus-square
 
 - name:
