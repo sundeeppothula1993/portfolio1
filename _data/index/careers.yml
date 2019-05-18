@@ -13,7 +13,7 @@
     detail: Data Scientist (Intern)
     i18n: company_a_job
   icon: fa-plus-square  
-  
+
 - name:
     detail: Data Scientist (Intern), TD Bank
     i18n: 
@@ -27,7 +27,7 @@
     detail: Data Scientist (Intern)
     i18n: company_a_job
   icon: fa-plus-square  
-  
+ 
   - name:
     detail: Data Scientist (Intern), TD Bank
     i18n: 
@@ -41,7 +41,7 @@
     detail: Data Scientist (Intern)
     i18n: company_a_job
   icon: fa-plus-square  
-    
+ 
 - name:
     detail: Teaching Assistant, Data Science
     i18n: company_b
@@ -55,7 +55,7 @@
     detail: TA, University of Toronto
     i18n: company_b_job
   icon: fa-plus-square   
-  
+ 
   - name:
     detail: Research Student - Data Analysis, University Health Network
     i18n: company_b
@@ -69,7 +69,7 @@
     detail: University Health Network, Toronto
     i18n: company_b_job
   icon: fa-plus-square  
-  
+ 
   - name:
     detail: Dy. Manager, GSFC, India
     i18n: company_b
