@@ -58,16 +58,14 @@
   icon: fa-plus-square
 
 - name:
-    detail: Minboso
+    detail: Bachelors Degree, Chemical Engineering,
   desc:
     detail: >
-      Developed a Ruby-on-rail web app prototype for a wellness startup company.
-      Tech stack: Ruby, Ruby-on-Rails, Heroku, PostgreSQL, SQLite3, Google App Engine (GAE), Google Datastore,
-      Python, Git, GitHub, Trello, JavaScript, jQuery, AJAX, Google Docs.
+      Completed BE (Hons.) Chemical with 3.6 GPA. from BITS Pilani India. 
   date:
-    detail: Jan 2016 - Apr 2016, London
+    detail: Aug. 2011 - July 2015, India
   job:
-    detail: Full-stack Developer
+    detail: Chemical Engineering, BITS Pilani
   icon: fa-plus-square
 
 - name:
