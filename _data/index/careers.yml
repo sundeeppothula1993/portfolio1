@@ -11,7 +11,18 @@
   job:
     detail: Data Scientist (Intern), TD Bank
   icon: fa-plus-square
-
+  
+- name:
+    detail: Masters Student, Industrial Engineering (GPA - 4.0/4.0)
+  desc:
+    detail: >
+      Completed Master of Engineering in Industrial Engineering department (Data Science specialization) with 4.0 GPA.  Worked on a Research Project Adaptive Real Time Machine Learning and created an open source python library for it.
+  date:
+    detail: Jan. 2018 - May 2019, Toronto
+  job:
+    detail: MEng, Industrial Engineering, UofT
+  icon: fa-plus-square
+  
 - name:
     detail: Teaching Assistant, Data Science
   desc:
