@@ -13,7 +13,33 @@
     detail: Data Scientist (Intern)
     i18n: company_a_job
   icon: fa-plus-square  
-  
+- name:
+    detail: Data Scientist (Intern), TD Bank
+    i18n: 
+  desc:
+    detail: Working with Enterprise Data Analytics team on a Phone channel analytics project.
+    i18n: 
+  date:
+    detail: May. 2019 - Present
+    i18n: company_a_date
+  job:
+    detail: Data Scientist (Intern)
+    i18n: company_a_job
+  icon: fa-plus-square  
+  - name:
+    detail: Data Scientist (Intern), TD Bank
+    i18n: 
+  desc:
+    detail: Working with Enterprise Data Analytics team on a Phone channel analytics project.
+    i18n: 
+  date:
+    detail: May. 2019 - Present
+    i18n: company_a_date
+  job:
+    detail: Data Scientist (Intern)
+    i18n: company_a_job
+  icon: fa-plus-square  
+    
 - name:
     detail: Teaching Assistant, Data Science
     i18n: company_b
