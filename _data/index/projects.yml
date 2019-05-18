@@ -6,7 +6,10 @@
   gh_user: sundeeppothula1993
   repo: AdaptiveMachineLearning/artml
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc:  Built open source Python library (artml) for Real-Time Machine Learning Algorithms with better scalability performance
+ Built models that support Incremental learning, Decremental learning & Real time feature selection techniques Blog
+ Building scalable models for Image recognition using Deep neural nets (Transfer learning) and ARTML (Modeling)
+ Developed Online Scalable Machine Learning models for predicting Customer Churn, Stock returns and fraud detection
 
 - name: Python
   i18n: cpython
