@@ -23,3 +23,10 @@
   url: https://google.com
   img: /static/assets/img/landing/google.png
   desc: Developed photo face recognition system using One shot meta learning with TensorFlow and achieved 97.5% accuracy
+  
+- name: Recommendation System
+  i18n: cpython
+  gh_user: sundeeppothula1993
+  repo: Recommendation-Systems
+  img: /static/assets/img/landing/python.png
+  desc: Built Collaborative filtering based recommendation system for User-Movies data
