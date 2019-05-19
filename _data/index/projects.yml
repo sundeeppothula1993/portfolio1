@@ -29,3 +29,10 @@
   repo: Recommendation-Systems
   img: /static/assets/img/landing/python.png
   desc: Built Collaborative filtering based recommendation system for User-Movies data
+  
+- name: ChatBot (Conversaional AI)
+  i18n: cpython
+  gh_user: sundeeppothula1993
+  repo: Chatbot_Rasa
+  img: /static/assets/img/landing/python.png
+  desc: Built a contextual AI Chatbot for Indian Startup data that answers user specific queries
