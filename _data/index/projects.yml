@@ -20,7 +20,6 @@
   i18n: google
   gh_user: sundeeppothula1993
   repo: One-Shot-Learning
-  url: https://google.com
   img: /static/assets/img/landing/google.png
   desc: Developed photo face recognition system using One shot meta learning with TensorFlow and achieved 97.5% accuracy
   
