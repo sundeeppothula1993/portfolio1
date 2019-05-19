@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, SQL, Machine Learing, Hive, Pyspark, Deep Learning, Tableau
-percentage: 90, 85, 95, 85, 70, 80, 90
+aspects: Python, SQL, Machine Learing, Hive, Pyspark, Deep Learning, Tableau, Tensorflow
+percentage: 90, 85, 95, 85, 70, 80, 90, 80
