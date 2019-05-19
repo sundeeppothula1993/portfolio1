@@ -44,7 +44,7 @@
   img: /static/assets/img/landing/python.png
   desc: Built a contextual AI Chatbot for Indian Startup data that answers user specific queries
   
-  - name:  Using Machine Learning to design Data Science Course Curriculum
+- name:  Using Machine Learning to design Data Science Course Curriculum
   i18n: cpython
   gh_user: sundeeppothula1993
   repo: Data-Science-course-curriculum-using-ML
