@@ -7,7 +7,7 @@
   repo: artml
   url: https://adaptivemachinelearning.github.io
   img: /static/assets/img/landing/jekyll.png
-  desc: Developed open source Python library (ARTML) for Real-Time Machine Learning Algorithms with better scalability performance. Currently leading a Resaerch Team and building scalable models for Image recognition using Deep neural nets (Transfer learning) and ARTML (Modeling)
+  desc: Developed open source Python library (ARTML) for Real-Time Machine Learning Algorithms with better scalability performance. Currently leading a Resaerch Team and building scalable models for Image recognition using Deep neural nets (Transfer learning) and ARTML
 
 - name: Predicting Customer Churn for a Telecom Industry
   i18n: cpython
@@ -43,3 +43,5 @@
   repo: Sentimental-Analysis
   img: /static/assets/img/landing/python.png
   desc: Built a contextual AI Chatbot for Indian Startup data that answers user specific queries
+  
+  
