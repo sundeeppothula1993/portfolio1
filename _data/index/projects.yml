@@ -44,6 +44,13 @@
   img: /static/assets/img/landing/python.png
   desc: Built a contextual AI Chatbot for Indian Startup data that answers user specific queries
   
+- name: Search Engine Design (Information Retrieval)
+  i18n: cpython
+  gh_user: sundeeppothula1993
+  repo: Information-Retrival
+  img: /static/assets/img/landing/python.png
+  desc: Built and improved performance of a website search engine using Whoosh library in the Python
+  
 - name: Natural Language Processing for Customer Hotel Reviews
   i18n: cpython
   gh_user: sundeeppothula1993
