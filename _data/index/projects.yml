@@ -15,8 +15,10 @@
   img: /static/assets/img/landing/python.png
   desc: Built Online Machine Learning Models for predicting Customer churn with 80% recall and 84% overall accuracy. These dynamic models can continuously learn from data and forget from any of the unnecessary old data as given
 
-- name: Google
+- name: One Shot Learning for face detection (Computer Vision)
   i18n: google
+  gh_user: sundeeppothula1993
+  repo: One-Shot-Learning
   url: https://google.com
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: Developed photo face recognition system using One shot meta learning with TensorFlow and achieved 97.5% accuracy
