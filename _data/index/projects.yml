@@ -9,6 +9,13 @@
   img: /static/assets/img/landing/jekyll.png
   desc: Developed open source Python library (ARTML) for Real-Time Machine Learning Algorithms with better scalability performance. Currently leading a Resaerch Team and building scalable models for Image recognition using Deep neural nets (Transfer learning) and ARTML
 
+- name: Pnuemonia Detection using Chest X-Rays
+  i18n: cpython
+  gh_user: sundeeppothula1993
+  repo: Deepnets-for-Medical-Diagnosis
+  img: /static/assets/img/landing/python.png
+  desc: Developed scalable deep neuralnets (CNN + Linear models) for Pnuemonia detection using Chest X-rays (Computer Vision)
+  
 - name: Predicting Customer Churn for a Telecom Industry
   i18n: cpython
   gh_user: AdaptiveMachineLearning
