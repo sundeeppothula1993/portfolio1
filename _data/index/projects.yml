@@ -21,7 +21,7 @@
   gh_user: AdaptiveMachineLearning
   repo: artml/blob/master/examples/artml_churn_prediction.ipynb
   img: /static/assets/img/landing/python.png
-  desc: Built Online Machine Learning Models for predicting Customer churn. These dynamic models can continuously learn from data and forget from any of the unnecessary old data.
+  desc: Built Online Machine Learning Models for predicting Customer churn. These dynamic models can continuously learn and forget from the required data. 
 
 - name: One Shot Learning for face detection (Computer Vision)
   i18n: google
