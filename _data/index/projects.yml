@@ -14,7 +14,7 @@
   gh_user: sundeeppothula1993
   repo: Deepnets-for-Medical-Diagnosis
   img: /static/assets/img/landing/python.png
-  desc: Developed scalable deep neuralnets (CNN + Linear models) for Pnuemonia detection using Chest X-rays (Computer Vision)
+  desc: Developed scalable deep neuralnets (CNN + Linear models) for detecting Pnuemonia from Chest X-rays (Computer Vision)
   
 - name: Predicting Customer Churn for a Telecom Industry
   i18n: cpython
