@@ -13,54 +13,54 @@
   i18n: cpython
   gh_user: sundeeppothula1993
   repo: Deepnets-for-Medical-Diagnosis
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/pndetection.png
   desc: Developed scalable Deep Neuralnets (CNN + Linear models) for detecting Pnuemonia from Chest X-rays (Computer Vision)
   
 - name: Predicting Customer Churn for a Telecom Industry
   i18n: cpython
   gh_user: AdaptiveMachineLearning
   repo: artml/blob/master/examples/artml_churn_prediction.ipynb
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/churn.jpg
   desc: Built Online Machine Learning Models for predicting Customer churn. These dynamic models can update in real time with the new data.
 
 - name: One Shot Learning for face detection (Computer Vision)
   i18n: google
   gh_user: sundeeppothula1993
   repo: One-Shot-Learning
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/metalearning.gif
   desc: Developed photo face recognition system using One shot meta learning with TensorFlow and achieved 97.5% accuracy
   
 - name: Recommendation System
   i18n: cpython
   gh_user: sundeeppothula1993
   repo: Recommendation-Systems
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/Recsys.jpg
   desc: Built Collaborative filtering based recommendation system for User-Movies data
   
 - name: ChatBot (Conversaional AI)
   i18n: cpython
   gh_user: sundeeppothula1993
   repo: Chatbot_Rasa
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/chatbot.jpeg
   desc: Built a contextual AI Chatbot that answers user specific queries about Indian Startups
   
 - name: Search Engine Design (Information Retrieval)
   i18n: cpython
   gh_user: sundeeppothula1993
   repo: Information-Retrival
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/search.jpg
   desc: Built and improved performance of a website search engine using Whoosh library in Python
   
 - name: Natural Language Processing for Customer Reviews
   i18n: cpython
   gh_user: sundeeppothula1993
   repo: Sentimental-Analysis
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/NLP.jpg
   desc: Developed Text analysis tools for understanding User reviews (Key phrases identification & Sentiment analysis)
   
 - name:  ML for designing Data Science Course Curriculum
   i18n: cpython
   gh_user: sundeeppothula1993
   repo: Data-Science-course-curriculum-using-ML
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/Resume.jpg
   desc: Developed a model that matches candidates Resume with best jobs from job portals using supervised algorithms and designed Data Science course curiculum using Machine Learning
