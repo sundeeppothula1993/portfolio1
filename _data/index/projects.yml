@@ -7,7 +7,7 @@
   repo: artml
   url: https://adaptivemachinelearning.github.io
   img: /static/assets/img/landing/jekyll.png
-  desc: Developed an open source Python library (ARTML) for Real-Time Machine Learning Algorithms with better scalability performance. Look into ARTML link for more details.
+  desc: Developed an open source Python library (ARTML) for Real-Time Machine Learning Algorithms with better scalability performance.
 
 - name: Pnuemonia Detection from Chest X-Rays
   i18n: cpython
@@ -42,14 +42,14 @@
   gh_user: sundeeppothula1993
   repo: Chatbot_Rasa
   img: /static/assets/img/landing/python.png
-  desc: Built a contextual AI Chatbot for Indian Startup data that answers user specific queries
+  desc: Built a contextual AI Chatbot that answers user specific queries about Indian Startups
   
 - name: Search Engine Design (Information Retrieval)
   i18n: cpython
   gh_user: sundeeppothula1993
   repo: Information-Retrival
   img: /static/assets/img/landing/python.png
-  desc: Built and improved performance of a website search engine using Whoosh library in the Python
+  desc: Built and improved performance of a website search engine using Whoosh library in Python
   
 - name: Natural Language Processing for Customer Hotel Reviews
   i18n: cpython
