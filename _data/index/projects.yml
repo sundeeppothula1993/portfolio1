@@ -9,19 +9,19 @@
   img: /static/assets/img/landing/jekyll.png
   desc: Developed an open source Python library (ARTML) for Real-Time Machine Learning Algorithms with better scalability performance. Look into ARTML link for more details.
 
-- name: Pnuemonia Detection using Chest X-Rays
+- name: Pnuemonia Detection from Chest X-Rays
   i18n: cpython
   gh_user: sundeeppothula1993
   repo: Deepnets-for-Medical-Diagnosis
   img: /static/assets/img/landing/python.png
-  desc: Developed scalable deep neuralnets (CNN + Linear models) for detecting Pnuemonia from Chest X-rays (Computer Vision)
+  desc: Developed scalable Deep Neuralnets (CNN + Linear models) for detecting Pnuemonia from Chest X-rays (Computer Vision)
   
 - name: Predicting Customer Churn for a Telecom Industry
   i18n: cpython
   gh_user: AdaptiveMachineLearning
   repo: artml/blob/master/examples/artml_churn_prediction.ipynb
   img: /static/assets/img/landing/python.png
-  desc: Built Online Machine Learning Models for predicting Customer churn with 80% recall and 84% overall accuracy. These dynamic models can continuously learn from data and forget from any of the unnecessary old data as given
+  desc: Built Online Machine Learning Models for predicting Customer churn. These dynamic models can continuously learn from data and forget from any of the unnecessary old data.
 
 - name: One Shot Learning for face detection (Computer Vision)
   i18n: google
