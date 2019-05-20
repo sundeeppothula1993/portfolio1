@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ARTML for Pneumonia Detection
+title: _posts/2019-04-24-ARTML for Pneumonia Detection.md
 date: {}
 desc: Quick test on writing code snippets in a blog post
 keywords: 'Jalpc,Jekyll,gh-pages,website,blog,easy'
