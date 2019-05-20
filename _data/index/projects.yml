@@ -7,7 +7,7 @@
   repo: artml
   url: https://adaptivemachinelearning.github.io
   img: /static/assets/img/landing/jekyll.png
-  desc: Developed an open source Python library (ARTML) for Real-Time Machine Learning Algorithms with better scalability performance. Look into [ARTML] (https://adaptivemachinelearning.github.io) link for more details.
+  desc: Developed an open source Python library (ARTML) for Real-Time Machine Learning Algorithms with better scalability performance. Look into ARTML link for more details.
 
 - name: Pnuemonia Detection using Chest X-Rays
   i18n: cpython
