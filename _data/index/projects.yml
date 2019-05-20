@@ -51,16 +51,16 @@
   img: /static/assets/img/landing/python.png
   desc: Built and improved performance of a website search engine using Whoosh library in Python
   
-- name: Natural Language Processing for Customer Hotel Reviews
+- name: Natural Language Processing for Customer Reviews
   i18n: cpython
   gh_user: sundeeppothula1993
   repo: Sentimental-Analysis
   img: /static/assets/img/landing/python.png
-  desc: Built a contextual AI Chatbot for Indian Startup data that answers user specific queries
+  desc: Developed Text analysis tools for understanding User reviews (Key phrases identification & Sentiment analysis)
   
-- name:  Using Machine Learning to design Data Science Course Curriculum
+- name:  ML for designing Data Science Course Curriculum
   i18n: cpython
   gh_user: sundeeppothula1993
   repo: Data-Science-course-curriculum-using-ML
   img: /static/assets/img/landing/python.png
-  desc: Built and deployed model in IBM Watson Knowledge studio for identifying Entities (Skillsets) from unstructured text data. Developed a model that matches candidates Resume with best jobs from job portals using supervised algorithms
+  desc: Developed a model that matches candidates Resume with best jobs from job portals using supervised algorithms and designed Data Science course curiculum using Machine Learning
