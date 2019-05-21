@@ -48,7 +48,7 @@
   i18n: cpython
   gh_user: sundeeppothula1993
   repo: Information-Retrival
-  img: /static/assets/img/landing/search.jpg
+  img: /static/assets/img/landing/search.jpeg
   desc: Built and improved performance of a website search engine using Whoosh library in Python
   
 - name: Natural Language Processing for Customer Reviews
@@ -62,5 +62,5 @@
   i18n: cpython
   gh_user: sundeeppothula1993
   repo: Data-Science-course-curriculum-using-ML
-  img: /static/assets/img/landing/Resume.jpg
+  img: /static/assets/img/landing/Resume.png
   desc: Developed a model that matches candidates Resume with best jobs from job portals using supervised algorithms and designed Data Science course curiculum using Machine Learning
