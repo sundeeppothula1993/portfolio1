@@ -6,11 +6,11 @@
 - name: ARTML
   href: /ARTML/
 
-- name: Data Science
-  href: /Data Science/
+#- name: Data Science
+ # href: /Data Science/
 
-- name: Tech
-  href: /Tech/
+#- name: Tech
+#  href: /Tech/
 
 #- name: Database
 #  href: /database/
