@@ -6,7 +6,7 @@
   gh_user: AdaptiveMachineLearning
   repo: artml
   url: https://adaptivemachinelearning.github.io
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/logo.JPG
   desc: Developed an open source Python library (ARTML) for Real-Time Machine Learning Algorithms with better scalability performance.
 
 - name: Pnuemonia Detection from Chest X-Rays
