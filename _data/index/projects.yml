@@ -35,7 +35,7 @@
   gh_user: sundeeppothula1993
   repo: One-Shot-Learning
   img: /static/assets/img/landing/metalearning.gif
-  desc: Developed photo face recognition system using One shot meta learning with TensorFlow and achieved 97.5% accuracy
+  desc: Developed photo face recognition system using One shot meta learning with TensorFlow
   
 - name: Recommendation System
   i18n: cpython
