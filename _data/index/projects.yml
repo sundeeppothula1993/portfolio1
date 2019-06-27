@@ -9,7 +9,7 @@
   img: /static/assets/img/landing/logo.JPG
   desc: Developed an open source Python library (ARTML) for Real-Time Machine Learning Algorithms with better scalability performance.
   
-  - name: Loblaw Digital - Microsoft Hackathon, 2nd Prize
+- name: Loblaw Digital - Microsoft Hackathon, 2nd Prize
   i18n: cpython
   gh_user: sundeeppothula1993
   repo: Loblaw-Hackbyte
