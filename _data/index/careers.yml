@@ -12,6 +12,17 @@
     detail: Data Scientist (Intern), TD Bank
   icon: fa-plus-square
   
+ - name:
+    detail: Research Lead, DSM lab
+  desc:
+    detail: >
+      Leading a team of 10 Masters students for building ARTML open source library and working on Real Time Machine learning applications.
+  date:
+    detail: March 2019 - Present, Toronto
+  job:
+    detail: Research Lead, DSM lab, Rutgers University
+  icon: fa-plus-square
+  
 - name:
     detail: MEng., Industrial Engineering (GPA 4.0)
   desc:
