@@ -8,6 +8,13 @@
   url: https://adaptivemachinelearning.github.io
   img: /static/assets/img/landing/logo.JPG
   desc: Developed an open source Python library (ARTML) for Real-Time Machine Learning Algorithms with better scalability performance.
+  
+  - name: Loblaw Digital - Microsoft Hackathon, 2nd Prize
+  i18n: cpython
+  gh_user: sundeeppothula1993
+  repo: Loblaw-Hackbyte
+  img: /static/assets/img/landing/microsoft.png
+  desc: Developed application for detecting products in retail store shelfs using Microsoft custom Vision API. (Computer Vision)
 
 - name: Pnuemonia Detection from Chest X-Rays
   i18n: cpython
