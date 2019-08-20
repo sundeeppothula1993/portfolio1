@@ -1,1 +1,1 @@
-### Personal Website Powered by Jekyll
+### Powered by Jekyll
