@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I’m an excited Data Scientist with more than 4 years of modeling and analysis experience with massive datasets along with significant experience implementing machine learning models into production in the fields of finance, telecom, Insurance and chemical Industries. I specialize in Adaptive Real Time Machine learning and also created a python library for it. Find out more in the projects section or in my blog. # Describe yourself.
+  desc: I’m an excited Data Scientist with more than 4 years of modeling and analysis experience with massive datasets along with significant experience implementing machine learning models into production in the fields of finance, telecom and chemical Industries. I specialize in Adaptive Real Time Machine learning and also created a python library for it. Find out more in the projects section or in my blog. # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
