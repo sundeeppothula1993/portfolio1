@@ -2,13 +2,24 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
+    detail: Senior. Data Scientist, Cerebri AI
+  desc:
+    detail: >
+        Coleading company research efforts to develop new and improved data science solutions for fortune 500 Enterprises.
+        
+  date:
+    detail: June. 2020 - Present, Toronto
+  job:
+    detail: Senior. Data Scientist, Cerebri AI
+  icon: fa-plus-square
+- name:
     detail: Data Scientist, Cerebri AI
   desc:
     detail: >
-        Coleading company research efforts to develop new and improved data science solutions for fortune 500 Enterprises. Developed and implemented a machine learning solution that predicted 75% of the customer churn for a telecom client. Designed use cases and built models for predicting Investment behavior of customers for an Insurance company in Canada. The model captured 70% of the customers investment behavior correctly in the top 10% of the model predictions.
+        Developed and implemented a machine learning solution that predicted 75% of the customer churn for a telecom client. Designed use cases and built models for predicting Investment behavior of customers for an Insurance company in Canada. The model captured 70% of the customers investment behavior correctly in the top 10% of the model predictions.
         
   date:
-    detail: Oct. 2019 - Present, Toronto
+    detail: Oct. 2019 - June 2020, Toronto
   job:
     detail: Data Scientist, Cerebri AI
   icon: fa-plus-square
