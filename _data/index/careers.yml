@@ -14,6 +14,17 @@
   job:
     detail: Principal Data Scientist, Cerebri AI
   icon: fa-plus-square
+  
+- name:
+    detail: Mentor, Data Science
+  desc:
+    detail: >
+        •	Mentoring 30+ working professionals for the Post Graduate Data Science program by Great Learning, US-Canada. Conducting weekly sessions on Python foundations, Inferential statistics, and Machine learning using Industry case studies
+  date:
+    detail: June. 2020 - October. 2020, Toronto
+  job:
+    detail: Senior. Data Scientist, Cerebri AI
+  icon: fa-plus-square
 
 - name:
     detail: Senior. Data Scientist, Cerebri AI
